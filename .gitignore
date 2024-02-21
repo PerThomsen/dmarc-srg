@@ -1,3 +1,5 @@
 .phpunit*
+.gitignore
+.vscode/
 config/conf.php
 /vendor
